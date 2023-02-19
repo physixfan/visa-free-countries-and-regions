@@ -23,7 +23,7 @@ var map = AmCharts.makeChart("chartdiv", {
       "color": "#00B300"
     }, {
       "id": "BS",
-      "title": "Bahamas",
+      "title": "The Bahamas",
       "customData": "巴哈马",
       "color": "#00B300"
     }, {
@@ -190,6 +190,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "MV",
       "title": "Maldives",
       "customData": "马尔代夫",
+      "color": "#00B300"
+    }, {
+      "id": "KZ",
+      "title": "Kazakhstan",
+      "customData": "哈萨克斯坦",
       "color": "#00B300"
     }, {
       "id": "AZ",
@@ -726,7 +731,12 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "British Virgin Islands",
       "customData": "英属维尔京群岛",
       "color": "#CCCC00"
-    }, ]
+    }, {
+      "id": "SV",
+      "title": "El Salvador",
+      "customData": "萨尔瓦多",
+      "color": "#CCCC00"
+    },]
   },
 
   "areasSettings": {
